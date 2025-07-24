@@ -1,0 +1,10 @@
+*.class
+*.log
+
+
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
